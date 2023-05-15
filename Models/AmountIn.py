@@ -3,16 +3,7 @@ from dataclasses import dataclass
 
 @dataclass(slots=True, frozen=True)
 class AmountIn:
-    """The AmountIn model
-    
-    Example of a possible instance:
-    blockchain: "avalanche"
-    exchange: "lydia_finance_avalanche"
-    tokenIn: "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7"
-    tokenOut: "0xde3A24028580884448a5397872046a019649b084"
-    amountIn: 843047442340946
-    amountOut: 10000
-    """
+    """The AmountIn model"""
 
     blockchain: str
     """The id of blockchain on which the exchange is taking place
