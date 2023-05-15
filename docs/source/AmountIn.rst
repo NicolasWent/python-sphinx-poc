@@ -1,5 +1,6 @@
 AmountIn Class
-=========
+==============
 
-.. autoclass:: Models.AmountIn.AmountIn
+.. autoclass:: Models.AmountIn
     :members:
+

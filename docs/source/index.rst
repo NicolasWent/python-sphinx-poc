@@ -6,15 +6,11 @@
 Welcome to SphinxPOC's documentation!
 =====================================
 
+This is a small POC for testing sphinx with the 
+
+Contents
+--------
+
 .. toctree::
-   :maxdepth: 2
-   :caption: Contents:
 
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+   AmountIn
